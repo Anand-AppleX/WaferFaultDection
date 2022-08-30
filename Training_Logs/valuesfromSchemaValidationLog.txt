@@ -1,0 +1,2 @@
+2022-08-30/12:15:41		LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
