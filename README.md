@@ -100,6 +100,7 @@ In this step, we perform different sets of validation on the given set of traini
 
 We will be deploying the model to the HEROKU and AWS Cloud platform.
 
+AWS: http://waferfaultdetection-env.eba-ifjsh8ff.us-east-1.elasticbeanstalk.com/
 
 Now let’s see the Wafer fault Detection project folder structure.
 
