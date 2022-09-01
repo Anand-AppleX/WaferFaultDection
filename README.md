@@ -1,3 +1,7 @@
+INTRODUCTION:
+
+Wafer (In electronics), also called a slice or substrate, is a thin slice of semiconductor, such as a crystalline silicon (c-Si), used for fabricationof integrated circuits and in photovoltaics, to manufacture solar cells.
+
 ==> Problem Statement:
 
   To build a classification methodology to predict the quality of wafer sensors based on the given training data. 
